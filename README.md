@@ -1,5 +1,6 @@
-# MinGW g++ -v
+# MinGW opencv3.3 build on win7 64 cmake 3.7.0-rc2
 ```
+g++ -v
 Using built-in specs.
 COLLECT_GCC=gcc
 COLLECT_LTO_WRAPPER=d:/soft/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe
@@ -15,4 +16,3 @@ Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu
 Thread model: win32
 gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)
 ```
-#build on win7 64

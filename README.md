@@ -14,3 +14,5 @@ Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu
 --enable-libgomp --disable-libvtv --enable-nls
 Thread model: win32
 gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)
+```
+#build on win7 64

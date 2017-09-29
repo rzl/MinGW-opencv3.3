@@ -1,0 +1,349 @@
+©¦  filelist.txt
+©¦  LICENSE
+©¦  OpenCVConfig-version.cmake
+©¦  OpenCVConfig.cmake
+©¦  
+©À©¤etc
+©¦  ©À©¤haarcascades
+©¦  ©¦      haarcascade_eye.xml
+©¦  ©¦      haarcascade_eye_tree_eyeglasses.xml
+©¦  ©¦      haarcascade_frontalcatface.xml
+©¦  ©¦      haarcascade_frontalcatface_extended.xml
+©¦  ©¦      haarcascade_frontalface_alt.xml
+©¦  ©¦      haarcascade_frontalface_alt2.xml
+©¦  ©¦      haarcascade_frontalface_alt_tree.xml
+©¦  ©¦      haarcascade_frontalface_default.xml
+©¦  ©¦      haarcascade_fullbody.xml
+©¦  ©¦      haarcascade_lefteye_2splits.xml
+©¦  ©¦      haarcascade_licence_plate_rus_16stages.xml
+©¦  ©¦      haarcascade_lowerbody.xml
+©¦  ©¦      haarcascade_profileface.xml
+©¦  ©¦      haarcascade_righteye_2splits.xml
+©¦  ©¦      haarcascade_russian_plate_number.xml
+©¦  ©¦      haarcascade_smile.xml
+©¦  ©¦      haarcascade_upperbody.xml
+©¦  ©¦      
+©¦  ©¸©¤lbpcascades
+©¦          lbpcascade_frontalcatface.xml
+©¦          lbpcascade_frontalface.xml
+©¦          lbpcascade_frontalface_improved.xml
+©¦          lbpcascade_profileface.xml
+©¦          lbpcascade_silverware.xml
+©¦          
+©À©¤include
+©¦  ©À©¤opencv
+©¦  ©¦      cv.h
+©¦  ©¦      cv.hpp
+©¦  ©¦      cvaux.h
+©¦  ©¦      cvaux.hpp
+©¦  ©¦      cvwimage.h
+©¦  ©¦      cxcore.h
+©¦  ©¦      cxcore.hpp
+©¦  ©¦      cxeigen.hpp
+©¦  ©¦      cxmisc.h
+©¦  ©¦      highgui.h
+©¦  ©¦      ml.h
+©¦  ©¦      
+©¦  ©¸©¤opencv2
+©¦      ©¦  calib3d.hpp
+©¦      ©¦  core.hpp
+©¦      ©¦  cvconfig.h
+©¦      ©¦  dnn.hpp
+©¦      ©¦  features2d.hpp
+©¦      ©¦  flann.hpp
+©¦      ©¦  highgui.hpp
+©¦      ©¦  imgcodecs.hpp
+©¦      ©¦  imgproc.hpp
+©¦      ©¦  ml.hpp
+©¦      ©¦  objdetect.hpp
+©¦      ©¦  opencv.hpp
+©¦      ©¦  opencv_modules.hpp
+©¦      ©¦  photo.hpp
+©¦      ©¦  shape.hpp
+©¦      ©¦  stitching.hpp
+©¦      ©¦  superres.hpp
+©¦      ©¦  video.hpp
+©¦      ©¦  videoio.hpp
+©¦      ©¦  videostab.hpp
+©¦      ©¦  
+©¦      ©À©¤calib3d
+©¦      ©¦      calib3d.hpp
+©¦      ©¦      calib3d_c.h
+©¦      ©¦      
+©¦      ©À©¤core
+©¦      ©¦  ©¦  affine.hpp
+©¦      ©¦  ©¦  base.hpp
+©¦      ©¦  ©¦  bufferpool.hpp
+©¦      ©¦  ©¦  core.hpp
+©¦      ©¦  ©¦  core_c.h
+©¦      ©¦  ©¦  cuda.hpp
+©¦      ©¦  ©¦  cuda.inl.hpp
+©¦      ©¦  ©¦  cuda_stream_accessor.hpp
+©¦      ©¦  ©¦  cuda_types.hpp
+©¦      ©¦  ©¦  cvdef.h
+©¦      ©¦  ©¦  cvstd.hpp
+©¦      ©¦  ©¦  cvstd.inl.hpp
+©¦      ©¦  ©¦  cv_cpu_dispatch.h
+©¦      ©¦  ©¦  cv_cpu_helper.h
+©¦      ©¦  ©¦  directx.hpp
+©¦      ©¦  ©¦  eigen.hpp
+©¦      ©¦  ©¦  fast_math.hpp
+©¦      ©¦  ©¦  ippasync.hpp
+©¦      ©¦  ©¦  mat.hpp
+©¦      ©¦  ©¦  mat.inl.hpp
+©¦      ©¦  ©¦  matx.hpp
+©¦      ©¦  ©¦  neon_utils.hpp
+©¦      ©¦  ©¦  ocl.hpp
+©¦      ©¦  ©¦  ocl_genbase.hpp
+©¦      ©¦  ©¦  opengl.hpp
+©¦      ©¦  ©¦  operations.hpp
+©¦      ©¦  ©¦  optim.hpp
+©¦      ©¦  ©¦  ovx.hpp
+©¦      ©¦  ©¦  persistence.hpp
+©¦      ©¦  ©¦  ptr.inl.hpp
+©¦      ©¦  ©¦  saturate.hpp
+©¦      ©¦  ©¦  softfloat.hpp
+©¦      ©¦  ©¦  sse_utils.hpp
+©¦      ©¦  ©¦  traits.hpp
+©¦      ©¦  ©¦  types.hpp
+©¦      ©¦  ©¦  types_c.h
+©¦      ©¦  ©¦  utility.hpp
+©¦      ©¦  ©¦  va_intel.hpp
+©¦      ©¦  ©¦  version.hpp
+©¦      ©¦  ©¦  wimage.hpp
+©¦      ©¦  ©¦  
+©¦      ©¦  ©À©¤cuda
+©¦      ©¦  ©¦  ©¦  block.hpp
+©¦      ©¦  ©¦  ©¦  border_interpolate.hpp
+©¦      ©¦  ©¦  ©¦  color.hpp
+©¦      ©¦  ©¦  ©¦  common.hpp
+©¦      ©¦  ©¦  ©¦  datamov_utils.hpp
+©¦      ©¦  ©¦  ©¦  dynamic_smem.hpp
+©¦      ©¦  ©¦  ©¦  emulation.hpp
+©¦      ©¦  ©¦  ©¦  filters.hpp
+©¦      ©¦  ©¦  ©¦  funcattrib.hpp
+©¦      ©¦  ©¦  ©¦  functional.hpp
+©¦      ©¦  ©¦  ©¦  limits.hpp
+©¦      ©¦  ©¦  ©¦  reduce.hpp
+©¦      ©¦  ©¦  ©¦  saturate_cast.hpp
+©¦      ©¦  ©¦  ©¦  scan.hpp
+©¦      ©¦  ©¦  ©¦  simd_functions.hpp
+©¦      ©¦  ©¦  ©¦  transform.hpp
+©¦      ©¦  ©¦  ©¦  type_traits.hpp
+©¦      ©¦  ©¦  ©¦  utility.hpp
+©¦      ©¦  ©¦  ©¦  vec_distance.hpp
+©¦      ©¦  ©¦  ©¦  vec_math.hpp
+©¦      ©¦  ©¦  ©¦  vec_traits.hpp
+©¦      ©¦  ©¦  ©¦  warp.hpp
+©¦      ©¦  ©¦  ©¦  warp_reduce.hpp
+©¦      ©¦  ©¦  ©¦  warp_shuffle.hpp
+©¦      ©¦  ©¦  ©¦  
+©¦      ©¦  ©¦  ©¸©¤detail
+©¦      ©¦  ©¦          color_detail.hpp
+©¦      ©¦  ©¦          reduce.hpp
+©¦      ©¦  ©¦          reduce_key_val.hpp
+©¦      ©¦  ©¦          transform_detail.hpp
+©¦      ©¦  ©¦          type_traits_detail.hpp
+©¦      ©¦  ©¦          vec_distance_detail.hpp
+©¦      ©¦  ©¦          
+©¦      ©¦  ©À©¤hal
+©¦      ©¦  ©¦      hal.hpp
+©¦      ©¦  ©¦      interface.h
+©¦      ©¦  ©¦      intrin.hpp
+©¦      ©¦  ©¦      intrin_cpp.hpp
+©¦      ©¦  ©¦      intrin_neon.hpp
+©¦      ©¦  ©¦      intrin_sse.hpp
+©¦      ©¦  ©¦      
+©¦      ©¦  ©¸©¤utils
+©¦      ©¦          logger.hpp
+©¦      ©¦          trace.hpp
+©¦      ©¦          
+©¦      ©À©¤dnn
+©¦      ©¦      all_layers.hpp
+©¦      ©¦      dict.hpp
+©¦      ©¦      dnn.hpp
+©¦      ©¦      dnn.inl.hpp
+©¦      ©¦      layer.details.hpp
+©¦      ©¦      layer.hpp
+©¦      ©¦      shape_utils.hpp
+©¦      ©¦      
+©¦      ©À©¤features2d
+©¦      ©¦      features2d.hpp
+©¦      ©¦      
+©¦      ©À©¤flann
+©¦      ©¦      allocator.h
+©¦      ©¦      all_indices.h
+©¦      ©¦      any.h
+©¦      ©¦      autotuned_index.h
+©¦      ©¦      composite_index.h
+©¦      ©¦      config.h
+©¦      ©¦      defines.h
+©¦      ©¦      dist.h
+©¦      ©¦      dummy.h
+©¦      ©¦      dynamic_bitset.h
+©¦      ©¦      flann.hpp
+©¦      ©¦      flann_base.hpp
+©¦      ©¦      general.h
+©¦      ©¦      ground_truth.h
+©¦      ©¦      hdf5.h
+©¦      ©¦      heap.h
+©¦      ©¦      hierarchical_clustering_index.h
+©¦      ©¦      index_testing.h
+©¦      ©¦      kdtree_index.h
+©¦      ©¦      kdtree_single_index.h
+©¦      ©¦      kmeans_index.h
+©¦      ©¦      linear_index.h
+©¦      ©¦      logger.h
+©¦      ©¦      lsh_index.h
+©¦      ©¦      lsh_table.h
+©¦      ©¦      matrix.h
+©¦      ©¦      miniflann.hpp
+©¦      ©¦      nn_index.h
+©¦      ©¦      object_factory.h
+©¦      ©¦      params.h
+©¦      ©¦      random.h
+©¦      ©¦      result_set.h
+©¦      ©¦      sampling.h
+©¦      ©¦      saving.h
+©¦      ©¦      simplex_downhill.h
+©¦      ©¦      timer.h
+©¦      ©¦      
+©¦      ©À©¤highgui
+©¦      ©¦      highgui.hpp
+©¦      ©¦      highgui_c.h
+©¦      ©¦      
+©¦      ©À©¤imgcodecs
+©¦      ©¦      imgcodecs.hpp
+©¦      ©¦      imgcodecs_c.h
+©¦      ©¦      ios.h
+©¦      ©¦      
+©¦      ©À©¤imgproc
+©¦      ©¦  ©¦  imgproc.hpp
+©¦      ©¦  ©¦  imgproc_c.h
+©¦      ©¦  ©¦  types_c.h
+©¦      ©¦  ©¦  
+©¦      ©¦  ©À©¤detail
+©¦      ©¦  ©¦      distortion_model.hpp
+©¦      ©¦  ©¦      
+©¦      ©¦  ©¸©¤hal
+©¦      ©¦          hal.hpp
+©¦      ©¦          interface.h
+©¦      ©¦          
+©¦      ©À©¤ml
+©¦      ©¦      ml.hpp
+©¦      ©¦      
+©¦      ©À©¤objdetect
+©¦      ©¦      detection_based_tracker.hpp
+©¦      ©¦      objdetect.hpp
+©¦      ©¦      objdetect_c.h
+©¦      ©¦      
+©¦      ©À©¤photo
+©¦      ©¦      cuda.hpp
+©¦      ©¦      photo.hpp
+©¦      ©¦      photo_c.h
+©¦      ©¦      
+©¦      ©À©¤shape
+©¦      ©¦      emdL1.hpp
+©¦      ©¦      hist_cost.hpp
+©¦      ©¦      shape.hpp
+©¦      ©¦      shape_distance.hpp
+©¦      ©¦      shape_transformer.hpp
+©¦      ©¦      
+©¦      ©À©¤stitching
+©¦      ©¦  ©¦  warpers.hpp
+©¦      ©¦  ©¦  
+©¦      ©¦  ©¸©¤detail
+©¦      ©¦          autocalib.hpp
+©¦      ©¦          blenders.hpp
+©¦      ©¦          camera.hpp
+©¦      ©¦          exposure_compensate.hpp
+©¦      ©¦          matchers.hpp
+©¦      ©¦          motion_estimators.hpp
+©¦      ©¦          seam_finders.hpp
+©¦      ©¦          timelapsers.hpp
+©¦      ©¦          util.hpp
+©¦      ©¦          util_inl.hpp
+©¦      ©¦          warpers.hpp
+©¦      ©¦          warpers_inl.hpp
+©¦      ©¦          
+©¦      ©À©¤superres
+©¦      ©¦      optical_flow.hpp
+©¦      ©¦      
+©¦      ©À©¤video
+©¦      ©¦      background_segm.hpp
+©¦      ©¦      tracking.hpp
+©¦      ©¦      tracking_c.h
+©¦      ©¦      video.hpp
+©¦      ©¦      
+©¦      ©À©¤videoio
+©¦      ©¦      cap_ios.h
+©¦      ©¦      videoio.hpp
+©¦      ©¦      videoio_c.h
+©¦      ©¦      
+©¦      ©¸©¤videostab
+©¦              deblurring.hpp
+©¦              fast_marching.hpp
+©¦              fast_marching_inl.hpp
+©¦              frame_source.hpp
+©¦              global_motion.hpp
+©¦              inpainting.hpp
+©¦              log.hpp
+©¦              motion_core.hpp
+©¦              motion_stabilizing.hpp
+©¦              optical_flow.hpp
+©¦              outlier_rejection.hpp
+©¦              ring_buffer.hpp
+©¦              stabilizer.hpp
+©¦              wobble_suppression.hpp
+©¦              
+©¸©¤x86
+    ©¸©¤mingw
+        ©À©¤bin
+        ©¦      libopencv_calib3d330.dll
+        ©¦      libopencv_core330.dll
+        ©¦      libopencv_dnn330.dll
+        ©¦      libopencv_features2d330.dll
+        ©¦      libopencv_flann330.dll
+        ©¦      libopencv_highgui330.dll
+        ©¦      libopencv_imgcodecs330.dll
+        ©¦      libopencv_imgproc330.dll
+        ©¦      libopencv_ml330.dll
+        ©¦      libopencv_objdetect330.dll
+        ©¦      libopencv_photo330.dll
+        ©¦      libopencv_shape330.dll
+        ©¦      libopencv_stitching330.dll
+        ©¦      libopencv_superres330.dll
+        ©¦      libopencv_video330.dll
+        ©¦      libopencv_videoio330.dll
+        ©¦      libopencv_videostab330.dll
+        ©¦      opencv_annotation.exe
+        ©¦      opencv_createsamples.exe
+        ©¦      opencv_ffmpeg330.dll
+        ©¦      opencv_interactive-calibration.exe
+        ©¦      opencv_traincascade.exe
+        ©¦      opencv_version.exe
+        ©¦      opencv_visualisation.exe
+        ©¦      
+        ©¸©¤lib
+                libopencv_calib3d330.dll.a
+                libopencv_core330.dll.a
+                libopencv_dnn330.dll.a
+                libopencv_features2d330.dll.a
+                libopencv_flann330.dll.a
+                libopencv_highgui330.dll.a
+                libopencv_imgcodecs330.dll.a
+                libopencv_imgproc330.dll.a
+                libopencv_ml330.dll.a
+                libopencv_objdetect330.dll.a
+                libopencv_photo330.dll.a
+                libopencv_shape330.dll.a
+                libopencv_stitching330.dll.a
+                libopencv_superres330.dll.a
+                libopencv_video330.dll.a
+                libopencv_videoio330.dll.a
+                libopencv_videostab330.dll.a
+                OpenCVConfig-version.cmake
+                OpenCVConfig.cmake
+                OpenCVModules-release.cmake
+                OpenCVModules.cmake
+                
